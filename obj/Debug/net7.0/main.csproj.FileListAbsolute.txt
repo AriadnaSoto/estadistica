@@ -1,0 +1,14 @@
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\bin\Debug\net7.0\main.exe
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\bin\Debug\net7.0\main.deps.json
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\bin\Debug\net7.0\main.runtimeconfig.json
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\bin\Debug\net7.0\main.dll
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\bin\Debug\net7.0\main.pdb
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\main.AssemblyInfoInputs.cache
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\main.AssemblyInfo.cs
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\main.csproj.CoreCompileInputs.cache
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\main.dll
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\refint\main.dll
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\main.pdb
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\main.genruntimeconfig.cache
+C:\Users\sotoa\OneDrive\Documentos\estadistica\main\obj\Debug\net7.0\ref\main.dll
